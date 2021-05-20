@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularmouride": {
+      "hosting": {
+        "angular": [
+          "angularmouride"
+        ]
+      }
+    }
+  }
+}
